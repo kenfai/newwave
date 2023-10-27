@@ -75,3 +75,12 @@ List of modern software and technology for development.
 ## CMS
 - https://strapi.io/ - NodeJS headless CMS
 - https://directus.io/
+
+## Internal Developer Platform
+- https://backstage.io/
+- https://getport.io/
+- https://humanitec.com/
+- https://shipa.io/
+
+## Diagram as Code
+- https://d2lang.com/
