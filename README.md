@@ -18,6 +18,9 @@ List of modern software and technology for development.
 - https://www.hyperui.dev/ - HyperUI
 - https://daisyui.com/ - daisyUI
 
+### React
+- https://ui.shadcn.com/ - Re-usable components
+
 ## Online IDE
 - https://stackblitz.com/ - StackBlitz
 - https://replit.com/ - replit
