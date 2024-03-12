@@ -31,6 +31,7 @@ List of modern software and technology for development.
 - https://planetscale.com/ - serverless MySQL platform
 - https://www.singlestore.com/ - SingleStoreDB
 - https://clickhouse.com - Fast analytical DB
+- https://www.dragonflydb.io/ - In-memory DB
 
 ## ORM
 - https://www.prisma.io/ - JS ORM
