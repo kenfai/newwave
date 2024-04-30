@@ -23,6 +23,9 @@ List of modern software and technology for development.
 ### React
 - https://ui.shadcn.com/ - Re-usable components
 
+## Stack
+- https://t4stack.com/
+
 ## Online IDE
 - https://stackblitz.com/ - StackBlitz
 - https://replit.com/ - replit
@@ -88,6 +91,7 @@ List of modern software and technology for development.
 - https://getport.io/
 - https://humanitec.com/
 - https://shipa.io/
+- https://www.harness.io/
 
 ## Diagram as Code
 - https://d2lang.com/
