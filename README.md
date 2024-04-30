@@ -17,6 +17,9 @@ List of modern software and technology for development.
 - https://www.radix-ui.com/
 - https://tamagui.dev/
 
+## UI Editor
+- https://www.stackbit.com/ - Netlify
+
 ### Tailwind based
 - https://www.hyperui.dev/ - HyperUI
 - https://daisyui.com/ - daisyUI
@@ -38,6 +41,9 @@ List of modern software and technology for development.
 - https://www.singlestore.com/ - SingleStoreDB
 - https://clickhouse.com - Fast analytical DB
 - https://www.dragonflydb.io/ - In-memory DB
+
+### Database tech
+- https://postgres.ai/ = Postgres branching for testing
 
 ## ORM
 - https://www.prisma.io/ - JS ORM
@@ -71,6 +77,11 @@ List of modern software and technology for development.
 - https://prometheus.io/
 - https://www.datadoghq.com/
 - https://opentelemetry.io/
+- https://betterstack.com/
+
+## System Status
+- https://www.atlassian.com/software/statuspage
+- https://www.onradar.io/
 
 ## API
 - https://trpc.io/docs - Typesafe API
