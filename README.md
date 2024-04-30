@@ -15,6 +15,7 @@ List of modern software and technology for development.
 
 ## UI Framework
 - https://www.radix-ui.com/
+- https://tamagui.dev/
 
 ### Tailwind based
 - https://www.hyperui.dev/ - HyperUI
