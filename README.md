@@ -44,6 +44,7 @@ List of modern software and technology for development.
 - https://www.singlestore.com/ - SingleStoreDB
 - https://clickhouse.com - Fast analytical DB
 - https://www.dragonflydb.io/ - In-memory DB
+- https://duckdb.org/ - SQLite for Analytics
 
 ### Database tech
 - https://postgres.ai/ = Postgres branching for testing
