@@ -7,11 +7,16 @@ List of modern software and technology for development.
 - VueJS
 - https://svelte.dev/ - Svelte
 - https://www.solidjs.com/ - SolidJS
+- https://htmx.org/
+
+## Backend
+- https://hono.dev/ - JS based web app framework
 
 ## Web Framework
 - https://astro.build/ - Astro
 - https://kit.svelte.dev/ - SvelteKit
 - https://adonisjs.com/ - AdonisJS
+- https://qwik.dev/
 
 ## UI Framework
 - https://www.radix-ui.com/
