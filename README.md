@@ -46,6 +46,9 @@ List of modern software and technology for development.
 - https://glitch.com/ - Glitch
 - https://www.val.town/ - Run code
 
+## Hosting
+- https://coolify.io/ - Heroku / Netlify / Vercel alt
+
 ## Database
 - https://planetscale.com/ - serverless MySQL platform
 - https://www.singlestore.com/ - SingleStoreDB
