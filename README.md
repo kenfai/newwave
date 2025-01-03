@@ -29,6 +29,7 @@ List of modern software and technology for development.
 ### Tailwind based
 - https://www.hyperui.dev/ - HyperUI
 - https://daisyui.com/ - daisyUI
+- https://fusetheme.com/ - FUSE (PAID)
 
 ### React
 - https://ui.shadcn.com/ - Re-usable components
