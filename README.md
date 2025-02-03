@@ -128,3 +128,6 @@ List of modern software and technology for development.
 ## Testing
 - https://www.artillery.io/
 - https://www.replay.io/
+
+## Documentation
+- https://developers.klaviyo.com/ - beautify API reference
