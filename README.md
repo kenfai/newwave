@@ -46,6 +46,9 @@ List of modern software and technology for development.
 - https://glitch.com/ - Glitch
 - https://www.val.town/ - Run code
 
+## IDE
+- https://zed.dev/ - Rust IDE
+
 ## Hosting
 - https://coolify.io/ - Heroku / Netlify / Vercel alt
 
