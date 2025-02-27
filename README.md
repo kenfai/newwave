@@ -115,6 +115,9 @@ List of modern software and technology for development.
 - https://directus.io/
 - https://getgrav.org/
 
+## No Code / App Builder
+- https://bubble.io/
+
 ## Internal Developer Platform
 - https://backstage.io/
 - https://getport.io/
