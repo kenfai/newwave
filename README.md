@@ -22,6 +22,9 @@ List of modern software and technology for development.
 - https://www.radix-ui.com/
 - https://tamagui.dev/
 - https://flyonui.com/
+- https://magicui.design/
+- https://ui.aceternity.com/
+- https://inspira-ui.com/
 
 ## UI Editor
 - https://www.stackbit.com/ - Netlify
