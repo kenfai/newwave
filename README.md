@@ -33,6 +33,8 @@ List of modern software and technology for development.
 - https://www.hyperui.dev/ - HyperUI
 - https://daisyui.com/ - daisyUI
 - https://fusetheme.com/ - FUSE (PAID)
+- https://tailgrids.com/
+- https://fluxui.dev/ - (for Livewire)
 
 ### React
 - https://ui.shadcn.com/ - Re-usable components
