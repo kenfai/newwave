@@ -33,6 +33,8 @@ List of modern software and technology for development.
 - https://lion-web.netlify.app/
 - https://mui.com/ (MaterialUI)
 - https://fomantic-ui.com/ (SemanticUI fork)
+- https://evergreen.segment.com/
+- https://paste.twilio.design/
 
 ## UI Editor
 - https://www.stackbit.com/ - Netlify
