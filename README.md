@@ -25,6 +25,14 @@ List of modern software and technology for development.
 - https://magicui.design/
 - https://ui.aceternity.com/
 - https://inspira-ui.com/
+- https://ant.design/
+- https://carbondesignsystem.com/components/button/usage/ (IBM)
+- https://react.fluentui.dev/ (Microsoft)
+- https://boosted.orange.com/
+- https://www.lightningdesignsystem.com/ (Salesforce)
+- https://lion-web.netlify.app/
+- https://mui.com/ (MaterialUI)
+- https://fomantic-ui.com/ (SemanticUI fork)
 
 ## UI Editor
 - https://www.stackbit.com/ - Netlify
