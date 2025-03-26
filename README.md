@@ -145,6 +145,9 @@ List of modern software and technology for development.
 - https://shipa.io/
 - https://www.harness.io/
 
+## DevOps
+- https://about.gitea.com/
+
 ## Diagram as Code
 - https://d2lang.com/
 
