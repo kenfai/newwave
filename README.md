@@ -85,6 +85,8 @@ List of modern software and technology for development.
 - https://pocketbase.io/ - Pocketbase
 - https://supabase.com/ - Firebase alternative
 - https://render.com/ - Heroku alternative
+- https://elest.io/
+- https://coolify.io/ - host locally
 
 ## Reverse Proxy
 - https://www.envoyproxy.io/ - Egde and service proxy
