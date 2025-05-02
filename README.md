@@ -125,6 +125,9 @@ List of modern software and technology for development.
 - https://www.onradar.io/
 - https://onlineornot.com/
 
+## Security
+- https://anubis.techaro.lol/ - Filter incoming HTTP to prevent AI crawler
+
 ## API
 - https://trpc.io/docs - Typesafe API
 - https://konghq.com/ - KONG API Gateway
