@@ -147,6 +147,9 @@ List of modern software and technology for development.
 ## No Code / App Builder
 - https://bubble.io/
 
+## MCP Server
+- https://www.klavis.ai/
+
 ## Internal Developer Platform
 - https://backstage.io/
 - https://getport.io/
