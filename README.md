@@ -162,6 +162,7 @@ List of modern software and technology for development.
 
 ## Diagram as Code
 - https://d2lang.com/
+- https://mermaid.js.org/
 
 ## PHP Engine
 - https://frankenphp.dev/
