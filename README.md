@@ -39,6 +39,9 @@ List of modern software and technology for development.
 ## UI Editor
 - https://www.stackbit.com/ - Netlify
 
+## Icons
+- https://iconify.design/
+
 ## Workflow
 - https://n8n.io/ - AI workflow automation
 
