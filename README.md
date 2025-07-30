@@ -36,6 +36,9 @@ List of modern software and technology for development.
 - https://evergreen.segment.com/
 - https://paste.twilio.design/
 
+## Web Components
+- https://lit.dev/
+
 ## UI Editor
 - https://www.stackbit.com/ - Netlify
 
