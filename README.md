@@ -17,6 +17,7 @@ List of modern software and technology for development.
 - https://kit.svelte.dev/ - SvelteKit
 - https://adonisjs.com/ - AdonisJS
 - https://qwik.dev/
+- https://mastrojs.github.io/
 
 ## UI Framework
 - https://www.radix-ui.com/
