@@ -104,6 +104,7 @@ List of modern software and technology for development.
 - https://traefik.io/ - Cloud Native networking
 - https://www.charlesproxy.com/ - Traffic monitoring
 - https://cilium.io/ - Kubernetes Networking
+- http://bunny.net/ - DNS (Free)
 
 ## Edge Platform
 - https://fly.io/ - Fly.io
