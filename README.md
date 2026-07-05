@@ -36,6 +36,8 @@ List of modern software and technology for development.
 - https://fomantic-ui.com/ (SemanticUI fork)
 - https://evergreen.segment.com/
 - https://paste.twilio.design/
+- https://www.9ui.dev/
+- https://ark-ui.com/
 
 ## Web Components
 - https://lit.dev/
