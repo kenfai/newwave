@@ -163,6 +163,9 @@ List of modern software and technology for development.
 ## MCP Server
 - https://www.klavis.ai/
 
+## Agents
+- https://herdr.dev/ - runtime for agents
+
 ## Internal Developer Platform
 - https://backstage.io/
 - https://getport.io/
